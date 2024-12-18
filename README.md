@@ -4,7 +4,7 @@ Can-Ez3 Steuerungsprogramm um PV-Überschussladen zu ermöglichen.
 
 ## What do we need ##
 
-- [Can-EZ3])(https://www.ta.co.at/x2-energiemanagement/can-ez3)
+- [Can-EZ3](https://www.ta.co.at/x2-energiemanagement/can-ez3)
     - eine Steuerung zur Erfassung und Regelung von Energieströmen. 
 - [TAPPS2](https://www.ta.co.at/download/software)
     - Software zur Bearbeitung des Steuerungsprogrammes
